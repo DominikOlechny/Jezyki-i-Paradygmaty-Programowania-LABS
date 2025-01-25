@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def walidacja_operacji(macierz1, macierz2, operacja):
     """
     Sprawdza poprawność wymiarów macierzy dla wybranej operacji.
